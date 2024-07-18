@@ -24,6 +24,18 @@
 **Software:** Cadence Virtuoso, Xilinx Vivado, Linux, ModelSIM, Altium  
 **Dev Boards:** Arduino UNO, ESP32  
 
+## Concepts
+- STA (Static Timing Analysis)
+- FIFO (First-In-First-Out)
+- Computer/VLSI Architecture
+- CDC (Clock Domain Crossing)
+- Digital Electronics
+- Verilog
+- System Verilog
+- RTL Development
+- RTL Coding
+- RISC-V ISA Architecture
+
 ## Experience
 ### Innovative Solutions
 **FPGA Intern** | Ghaziabad, UP | July 2022 - Dec 2022
