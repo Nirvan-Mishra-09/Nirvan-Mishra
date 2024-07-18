@@ -76,4 +76,27 @@
 - Formulated the encoder logic at the register-transfer level (RTL) using Verilog HDL, reducing development time by 30%.
 - Employed the priority encoder’s logic at behavioral, structural, and gate levels, and wrote a comprehensive test bench.
 
+### Robotics Projects
+#### Autonomous Navigation in Indoor Environment using Reinforcement Learning
+**April 2024**
+- Explored the application of reinforcement learning for autonomous navigation of a TurtleBot3 robot in complex indoor environments.
+- Evaluated the effectiveness of Deep Q-Networks and Deep SARSA algorithms in enabling efficient and safe navigation towards designated goals while avoiding collisions.
+- Conducted a comparative assessment of these two deep reinforcement learning techniques, focusing on training the robot agent to navigate effectively considering both path optimality and obstacle avoidance in a dynamic setting.
 
+#### Leader Follower Robot with Dynamic Obstacle Avoidance
+**April 2023**
+- Directed the creation of a leader-following robot system, emphasizing precise coordination between the leader and follower robots to ensure seamless operation in various environments.
+- Incorporated a dynamic obstacle avoidance mechanism utilizing Computer Vision, specifically leveraging OpenCV’s color detection technique, to enhance the robots’ ability to navigate complex environments in real-time.
+- Designed and implemented efficient communication protocols between the leader and follower robots, ensuring low-latency and reliable data transmission for synchronized movement and responsive interaction.
+
+#### Time Series Prediction
+**December 2023**
+- Modeled RNN, LSTM, and 1-D CNN architectures to forecast household electricity consumption, using the "AEP hourly" dataset provided by AEP (American Electric Power).
+- Analyzed model performance metrics (e.g., accuracy, mean squared error) to select the optimal model for precise forecasting of future consumption.
+- Utilized advanced data preprocessing techniques, such as normalization and feature engineering, to enhance the predictive capabilities of the models and ensure robust performance across varying consumption patterns and environmental factors.
+
+#### Path Planning
+**April 2023**
+- Programmed a Python-based solution to find the shortest route on a given 2D map using Dijkstra’s algorithm, ensuring optimal pathfinding in a 2D grid environment.
+- Implemented A* algorithm for both 2D and 3D pathfinding using TurtleBot3, leveraging ROS1 and Gazebo for simulation, achieving efficient and accurate navigation in complex environments.
+- Evaluated the efficiency of Rapidly Exploring Random Trees (RRT) and RRT-A* algorithms for motion planning, considering both Euclidean and Manhattan metric functions, to determine their respective strengths in navigating complex environments.
