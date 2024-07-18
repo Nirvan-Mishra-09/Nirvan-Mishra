@@ -41,7 +41,7 @@
 - Created a parametrizable FIFO (First-In-First-Out) memory buffer in Verilog for efficient data transfer between digital system clock domains.
 - Implemented configurable data widths and depths (DW, DP) with robust state machine control for accurate data handling.
 - Integrated full and empty flag indicators to manage FIFO status, ensuring data integrity and system reliability.
-- 
+  
 ### 32 Bit RISC-V Processor
 **May - June 2024**
 - **Tools:** Verilog, Xilinx Vivado, Digital Design
