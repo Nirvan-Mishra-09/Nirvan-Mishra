@@ -24,10 +24,6 @@
 **Software:** Cadence Virtuoso, Xilinx Vivado, Linux, ModelSIM, Altium  
 **Dev Boards:** Arduino UNO, ESP32 
 
-## Certificates
-- SystemVerilog for Verification Part 1: Fundamentals
-  ![SystemVerilog_completion](https://github.com/user-attachments/assets/c51a16ce-5d39-40df-adb5-c749bff88cf6)
-
 ## Concepts
 - STA (Static Timing Analysis)
 - FIFO (First-In-First-Out)
@@ -116,3 +112,7 @@
 - Programmed a Python-based solution to find the shortest route on a given 2D map using Dijkstra’s algorithm, ensuring optimal pathfinding in a 2D grid environment.
 - Implemented A* algorithm for both 2D and 3D pathfinding using TurtleBot3, leveraging ROS1 and Gazebo for simulation, achieving efficient and accurate navigation in complex environments.
 - Evaluated the efficiency of Rapidly Exploring Random Trees (RRT) and RRT-A* algorithms for motion planning, considering both Euclidean and Manhattan metric functions, to determine their respective strengths in navigating complex environments.
+  
+## Certificates
+- SystemVerilog for Verification Part 1: Fundamentals
+  ![SystemVerilog_completion](https://github.com/user-attachments/assets/c51a16ce-5d39-40df-adb5-c749bff88cf6)
