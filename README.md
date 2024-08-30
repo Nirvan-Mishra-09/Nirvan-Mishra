@@ -25,7 +25,8 @@
 **Dev Boards:** Arduino UNO, ESP32 
 
 ## Certificates
-- SystemVerilog for Verification Part 1: Fundamentals - https://www.udemy.com/certificate/UC-1b78109c-b9cb-43e9-8837-dde02ff61a14/
+- SystemVerilog for Verification Part 1: Fundamentals
+  ![SystemVerilog_completion](https://github.com/user-attachments/assets/c51a16ce-5d39-40df-adb5-c749bff88cf6)
 
 ## Concepts
 - STA (Static Timing Analysis)
