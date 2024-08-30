@@ -22,7 +22,10 @@
 **Languages:** Verilog, System Verilog, C/C++, Matlab, Perl, Python (TensorFlow, Keras, Pandas, Scikit-learn, OpenCV)  
 **Robotics:** ROS 1, ROS 2, Gazebo, MoveIt  
 **Software:** Cadence Virtuoso, Xilinx Vivado, Linux, ModelSIM, Altium  
-**Dev Boards:** Arduino UNO, ESP32  
+**Dev Boards:** Arduino UNO, ESP32 
+
+## Certificates
+- SystemVerilog for Verification Part 1: Fundamentals - https://www.udemy.com/certificate/UC-1b78109c-b9cb-43e9-8837-dde02ff61a14/
 
 ## Concepts
 - STA (Static Timing Analysis)
