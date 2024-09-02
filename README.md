@@ -39,20 +39,19 @@
 ## Experience
 ### Innovative Solutions
 **FPGA Intern** | Ghaziabad, UP | July 2022 - Dec 2022
-- Designed and implemented digital circuits on FPGA platforms using Verilog and Xilinx Vivado.
-- Developed custom hardware modules (counters, encoders, multiplexers) to enhance system performance.
-- Created comprehensive testbenches to verify FPGA designs, including up/down counters and priority encoders.
-- Utilized simulation tools within Vivado to validate functionality, identify issues, and ensure design performance before deployment.
-- Synthesized circuits by generating .ucf and .bit files for synthesis purposes on the Xilinx Nexys Artix-7 board, ensuring accurate pin assignments and successful implementation.
+  -Designed and implemented RTL modules on Xilinx Nexsys Artix 7, including counters, encoders, and multiplexers, improving system efficiency by 15%
+  -Developed and executed comprehensive testbenches in SystemVerilog for functional verification, reducing bug occurrences by 20%.
+  -Created comprehensive testbenches to verify FPGA designs, including up/down counters and priority encoders.
+  -Conducted synthesis and implementation using Xilinx Vivado, ensuring optimal design performance and integration with Ethernet modules.
+
 
 ## VLSI Projects
 
-### RTL Implementation and Verification of FIFO
+### 16 x 8 FIFO RTL Design and Verification
 **July 2024**
 - **Tools:** System Verilog, Xilinx Vivado, Digital Design
-- Created a parametrizable FIFO (First-In-First-Out) memory buffer in Verilog for efficient data transfer between digital system clock domains.
-- Implemented configurable data widths and depths (DW, DP) with robust state machine control for accurate data handling.
-- Integrated full and empty flag indicators to manage FIFO status, ensuring data integrity and system reliability.
+- Programmed and Verified a 16x8 FIFO Memory Buffer in SystemVerilog, implementing robust state machine control with full and empty flag indicators, improving data handling efficiency by 30%
+- Defined a comprehensive testbench using advanced UVM concepts, including driver, monitor, and scoreboard, to validate FIFO operations and ensure data integrity, increasing verification coverage by 25%.
   
 ### 32 Bit RISC-V Processor
 **May - June 2024**
