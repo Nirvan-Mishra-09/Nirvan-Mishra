@@ -37,18 +37,22 @@
 - RISC-V ISA Architecture
 
 ## Experience
+
 ### Innovative Solutions
 **FPGA Intern** | Ghaziabad, UP | July 2022 - Dec 2022
--Designed and implemented RTL modules on Xilinx Nexsys Artix 7, including counters, encoders, and multiplexers, improving system efficiency by 15%
--Developed and executed comprehensive testbenches in SystemVerilog for functional verification, reducing bug occurrences by 20%.
--Created comprehensive testbenches to verify FPGA designs, including up/down counters and priority encoders.
--Conducted synthesis and implementation using Xilinx Vivado, ensuring optimal design performance and integration with Ethernet modules.
+
+- **Designed and Implemented RTL Modules**: Developed RTL modules for the Xilinx Nexsys Artix 7, including counters, encoders, and multiplexers, resulting in a 15% improvement in system efficiency.
+  
+- **Developed and Executed Comprehensive Testbenches**: Created detailed testbenches in SystemVerilog to verify FPGA designs such as up/down counters and priority encoders, which led to a 20% reduction in bug occurrences.
+
+- **Conducted Synthesis and Implementation**: Utilized Xilinx Vivado for synthesis and implementation, ensuring optimal design performance and successful integration with Ethernet modules for enhanced network connectivity.
+
 
 
 ## VLSI Projects
 
 ### 16 x 8 FIFO RTL Design and Verification
-**July 2024**
+**August 2024**
 - **Tools:** System Verilog, Xilinx Vivado, Digital Design
 - Programmed and Verified a 16x8 FIFO Memory Buffer in SystemVerilog, implementing robust state machine control with full and empty flag indicators, improving data handling efficiency by 30%
 - Defined a comprehensive testbench using advanced UVM concepts, including driver, monitor, and scoreboard, to validate FIFO operations and ensure data integrity, increasing verification coverage by 25%.
