@@ -39,10 +39,10 @@
 ## Experience
 ### Innovative Solutions
 **FPGA Intern** | Ghaziabad, UP | July 2022 - Dec 2022
-  -Designed and implemented RTL modules on Xilinx Nexsys Artix 7, including counters, encoders, and multiplexers, improving system efficiency by 15%
-  -Developed and executed comprehensive testbenches in SystemVerilog for functional verification, reducing bug occurrences by 20%.
-  -Created comprehensive testbenches to verify FPGA designs, including up/down counters and priority encoders.
-  -Conducted synthesis and implementation using Xilinx Vivado, ensuring optimal design performance and integration with Ethernet modules.
+-Designed and implemented RTL modules on Xilinx Nexsys Artix 7, including counters, encoders, and multiplexers, improving system efficiency by 15%
+-Developed and executed comprehensive testbenches in SystemVerilog for functional verification, reducing bug occurrences by 20%.
+-Created comprehensive testbenches to verify FPGA designs, including up/down counters and priority encoders.
+-Conducted synthesis and implementation using Xilinx Vivado, ensuring optimal design performance and integration with Ethernet modules.
 
 
 ## VLSI Projects
