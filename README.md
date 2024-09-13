@@ -2,7 +2,7 @@
 
 ## Education
 ### University of Maryland
-**Masters of Engineering in Robotics** | Maryland, USA | GPA: 3.6 / 4.0 | Present
+**Masters of Engineering in Robotics minor in VLSI Design** | Maryland, USA | GPA: 3.6 / 4.0 | Dec 2024
 
 ### IET-DAVV
 **Bachelors of Engineering in Electronics and Instrumentation** | M.P, India | GPA: 8.0 / 10 | June 2021
