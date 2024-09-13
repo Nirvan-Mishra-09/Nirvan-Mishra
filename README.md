@@ -2,7 +2,7 @@
 
 ## Education
 ### University of Maryland
-**M.Eng in Robotics minor in VLSI Design** | Maryland, USA | GPA: 3.6 / 4.0 | Dec 2024
+**M.Eng in Robotics minor in VLSI Design** | MD, USA | GPA: 3.6 / 4.0 | Dec 2024
 
 ### IET-DAVV
 **B.Eng in Electronics and Instrumentation** | M.P, India | GPA: 3.2 / 4.0 | June 2021
