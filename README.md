@@ -41,11 +41,9 @@
 ### Innovative Solutions
 **FPGA Intern** | Ghaziabad, UP | July 2022 - Dec 2022
 
-- **Designed and Implemented RTL Modules**: Developed RTL modules for the Xilinx Nexsys Artix 7, including counters, encoders, and multiplexers, resulting in a 15% improvement in system efficiency.
-  
-- **Developed and Executed Comprehensive Testbenches**: Created detailed testbenches in SystemVerilog to verify FPGA designs such as up/down counters and priority encoders, which led to a 20% reduction in bug occurrences.
-
-- **Conducted Synthesis and Implementation**: Utilized Xilinx Vivado for synthesis and implementation, ensuring optimal design performance and successful integration with Ethernet modules for enhanced network connectivity.
+- Designed and implemented SPI (Serial Peripheral Interface) and UART (Universal Asynchronous Receiver-Transmitter) IP cores using Verilog.  
+- Verified the functionality of the SPI and UART IPs through comprehensive testbenches developed in SystemVerilog.
+- Deployed and tested the designed IPs on a Xilinx Nexys Artix-7 FPGA, utilizing the Vivado Design Suite to synthesize, implement, and validate the hardware functionality.
 
 
 
