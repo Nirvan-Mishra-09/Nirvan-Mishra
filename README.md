@@ -49,32 +49,37 @@
 
 ## VLSI Projects
 
+### APB Slave Design and Verification 
+**September 2024**
+- **Tools:** System Verilog, Xilinx Vivado, Digital Design
+- Implemented an APB (Advanced Peripheral Bus) slave module using Verilog, supporting basic read and write operations with error checking mechanisms.
+- The module handles data transfer and status signaling, ensuring proper communication with the APB master, with state machine control for idle, read, and write states.
+ 
 ### 16 x 8 FIFO RTL Design and Verification
 **August 2024**
 - **Tools:** System Verilog, Xilinx Vivado, Digital Design
-- Programmed and Verified a 16x8 FIFO Memory Buffer in SystemVerilog, implementing robust state machine control with full and empty flag indicators, improving data handling efficiency by 30%
-- Defined a comprehensive testbench using advanced UVM concepts, including driver, monitor, and scoreboard, to validate FIFO operations and ensure data integrity, increasing verification coverage by 25%.
+- Developed and verified a 16x8 FIFO (First-In-First-Out) memory buffer using SystemVerilog, utilizing constrained random verification (CRV) technique.
+- Designed the 16x8 FIFO with 8-bit data width and 16-entry depth. Integrated control logic for read/write pointers, full and empty status flags.
   
 ### 32 Bit RISC-V Processor
-**May - June 2024**
+**June - July 2024**
 - **Tools:** Verilog, Xilinx Vivado, Digital Design
-- Designed a single-cycle RISC-V processor in Verilog, incorporating essential components such as ALU, control unit, instruction memory, program counter, register file, and data memory.
-- Executed the RISC-V RV32I instruction set, covering R-type, I-type, and S-type instructions, for RV32I Base Integer Instructions.
-- Developed multiple test cases to test and verify the functionality of each instruction type, integrated datapath elements and control logic using Verilog.
+- Designed and implemented a single-cycle RISC-V processor in Verilog, featuring key components such as the ALU, control unit, instruction memory, program counter, register file, and data memory, to execute RV32I Base Integer Instructions.
+- Executed R-type, I-type, and S-type instructions of the RV32I instruction set and developed comprehensive test cases in Verilog to verify the correct functionality of each instruction type.
+
 
 ### 32 Bit MAX Circuit
 **April 2024**
 - **Tools:** Cadence Virtuoso, Digital CMOS VLSI Design
-- Created a sequential circuit to find the maximum value among eight 4-bit numbers (X0..X7), utilizing a counter and memory elements for continuous tracking over multiple clock cycles.
-- Developed a 2-bit counter, data selector, sorter unit, and memory file. The sorter unit compared and swapped inputs to determine the maximum value iteratively.
-- Validated the circuit through simulations, achieving accurate maximum value determination within four clock cycles, supported by detailed transistor-level schematics.
+- Formulated a sequential circuit to determine the maximum value among eight 4-bit numbers, utilizing a 2-bit counter, data selector, sorter unit, and memory elements to iteratively compare and track the maximum value over multiple clock cycles.
+- Validated the circuit through simulations, ensuring accurate determination of the maximum value within four clock cycles, supported by detailed transistor-level schematics.
 
 ### 32-Bit Sorting Circuit
 **March 2024**
 - **Tools:** Cadence Virtuoso, Digital CMOS VLSI Design
-- Devised an 8-input (4-bit) sorting circuit in Cadence Virtuoso using a bottom-up strategy, improving sorting efficiency by 25%.
-- Designed a Comparator Circuit for bit-wise A-B comparison, generating signals for greater than, less than, and equal conditions, and a Swapping Circuit to rearrange inputs in descending order, reducing sorting time by 15%.
-- Achieved a worst-case delay of 1.8ns and power consumption of 4mW, ensuring a high-performance and energy-efficient design.
+- Devised an 8-input (4-bit) sorting circuit in Cadence Virtuoso using a bottom-up strategy, which improved sorting efficiency. This included designing a Comparator Circuit for bit-wise comparisons and a Swapping Circuit to arrange inputs in descending order, which reduced sorting time.
+- Achieved a worst-case delay of 1.8ns and power consumption of 4mW, ensuring the design was both high-performance and energy-efficient.
+
 
 ### Advanced Logic Gate Optimization for Enhanced Performance in Digital Circuits
 **May 2024**
@@ -83,11 +88,6 @@
 - Applied three key optimization techniques: CMOS gate sizing, alternative logic structures, and complex CMOS gates.
 - Achieved reductions in worst-case delay (73%) and power consumption (70%) through optimized design, resulting in a decrease from 0.38 ns to 0.1 ns in delay and from 0.07 mW to 0.02 mW in power consumption.
 
-### 8x3 Bit Priority Encoder
-**March 2021**
-- **Tools:** Verilog, Xilinx Vivado, Digital Design
-- Formulated the encoder logic at the register-transfer level (RTL) using Verilog HDL, reducing development time by 30%.
-- Employed the priority encoder’s logic at behavioral, structural, and gate levels, and wrote a comprehensive test bench.
 
 ### Robotics Projects
 #### Autonomous Navigation in Indoor Environment using Reinforcement Learning
