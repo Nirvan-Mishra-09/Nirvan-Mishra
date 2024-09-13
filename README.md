@@ -33,7 +33,6 @@
 - Verilog
 - System Verilog
 - RTL Development
-- RTL Coding
 - RISC-V ISA Architecture
 
 ## Experience
