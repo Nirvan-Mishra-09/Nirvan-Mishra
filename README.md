@@ -19,10 +19,10 @@
 - Reinforcement Learning
 
 ## Skills
-**Languages:** Verilog, System Verilog, C/C++, Matlab, Perl, Python (TensorFlow, Keras, Pandas, Scikit-learn, OpenCV)  
-**Robotics:** ROS 1, ROS 2, Gazebo, MoveIt  
-**Software:** Cadence Virtuoso, Xilinx Vivado, Linux, ModelSIM, Altium  
-**Dev Boards:** Arduino UNO, ESP32 
+- Programming Languages: Verilog, System Verilog, Python, C++, Embedded C, MATLAB
+- Software Tools: Cadence Virtuoso, Calibre, Model Sim, Xilinx Vivado, Altium
+- ASIC / FPGA Concepts: RTL Design, UVM, CDC, Static Timing Analysis
+- Communication Protocol: SPI, UART, I2C, APB, AXI Lite 
 
 ## Concepts
 - STA (Static Timing Analysis)
