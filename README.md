@@ -29,6 +29,7 @@
 - FIFO (First-In-First-Out)
 - Computer/VLSI Architecture
 - CDC (Clock Domain Crossing)
+- Physical VLSI Design
 - Digital Electronics
 - Verilog
 - System Verilog
@@ -36,6 +37,12 @@
 - RISC-V ISA Architecture
 
 ## Experience
+
+### University of Maryland - College Park
+**Graduate Assistant** | College Park, MD | Aug 2024 - Dec 2024
+
+- Tutored students of ENEE department in Embedded Systems and VLSI Design, focusing on Verilog-based digital system design and RTL implementation.
+- Led group and one-on-one sessions to support coursework, projects, and exam preparation in RTL design, Verilog, and digital design concepts. 
 
 ### Innovative Solutions
 **FPGA Intern** | Ghaziabad, UP | July 2022 - Dec 2022
